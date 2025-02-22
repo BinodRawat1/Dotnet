@@ -1,0 +1,9 @@
+C:\Users\kapil\source\repos\lab8\lab8\bin\Debug\x86\sqlite3.dll
+C:\Users\kapil\source\repos\lab8\lab8\bin\Debug\x64\sqlite3.dll
+C:\Users\kapil\source\repos\lab8\lab8\bin\Debug\lab8.exe.config
+C:\Users\kapil\source\repos\lab8\lab8\bin\Debug\lab8.exe
+C:\Users\kapil\source\repos\lab8\lab8\bin\Debug\lab8.pdb
+C:\Users\kapil\source\repos\lab8\lab8\obj\Debug\lab8.csproj.AssemblyReference.cache
+C:\Users\kapil\source\repos\lab8\lab8\obj\Debug\lab8.csproj.CoreCompileInputs.cache
+C:\Users\kapil\source\repos\lab8\lab8\obj\Debug\lab8.exe
+C:\Users\kapil\source\repos\lab8\lab8\obj\Debug\lab8.pdb
