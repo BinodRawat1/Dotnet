@@ -1,0 +1,6 @@
+@jsonlab11_HostAddress = http://localhost:5280
+
+GET {{jsonlab11_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
