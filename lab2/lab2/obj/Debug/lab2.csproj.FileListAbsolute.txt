@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\binod\lab2\lab2\bin\Debug\lab2.exe.config
+C:\Users\HP\source\repos\binod\lab2\lab2\bin\Debug\lab2.exe
+C:\Users\HP\source\repos\binod\lab2\lab2\bin\Debug\lab2.pdb
+C:\Users\HP\source\repos\binod\lab2\lab2\obj\Debug\lab2.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\binod\lab2\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\binod\lab2\lab2\obj\Debug\lab2.exe
+C:\Users\HP\source\repos\binod\lab2\lab2\obj\Debug\lab2.pdb

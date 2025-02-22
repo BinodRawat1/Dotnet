@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\binod\lab4\lab4\bin\Debug\lab4.exe.config
+C:\Users\HP\source\repos\binod\lab4\lab4\bin\Debug\lab4.exe
+C:\Users\HP\source\repos\binod\lab4\lab4\bin\Debug\lab4.pdb
+C:\Users\HP\source\repos\binod\lab4\lab4\obj\Debug\lab4.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\binod\lab4\lab4\obj\Debug\lab4.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\binod\lab4\lab4\obj\Debug\lab4.exe
+C:\Users\HP\source\repos\binod\lab4\lab4\obj\Debug\lab4.pdb
